@@ -1,2 +1,2 @@
-# Supervised-learning-project-KNN
+# Supervised-learning-project
 Domain: Health Care
